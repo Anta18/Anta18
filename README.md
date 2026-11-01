@@ -9,7 +9,7 @@
 
 My projects move between developer tools, machine learning, quantitative research, and the machinery underneath software. The common thread: understand the problem, build something concrete, and leave a trail someone else can inspect.
 
-**[Explore the repositories](https://github.com/Anta18?tab=repositories)** · **[Latest engineering investigation](https://github.com/Anta18/unvibecode-companion/blob/main/submission/START-HERE.md)**
+**[Live portfolio ↗](https://antariksh-portfolio-three.vercel.app/)** · **[Portfolio source](https://github.com/Anta18/antariksh-portfolio)** · **[All repositories](https://github.com/Anta18?tab=repositories)** · **[Engineering investigation](https://github.com/Anta18/unvibecode-companion/blob/main/submission/START-HERE.md)**
 
 <br>
 
